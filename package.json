@@ -1,0 +1,19 @@
+{
+    "name": "lorem-imago-api",
+    "version": "1.0.0",
+    "description": "Proyecto para utilzar recursos de Lorem Picsum API (https://picsum.photos/), cuyo propósito es generar 15 imágenes para ser utilizadas como marcadores de posición de manera similar al uso de Lorem Ipsum para generar textos. Estas imágenes tienen como fuente al sitio UNSPLAH (https://unsplash.com/)",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "Lorem Picsum",
+      "UNSPLASH",
+      "fotografias",
+      "placeholders",
+      "marcadores de posicion",
+      "JavaScript"
+    ],
+    "author": "Luis López-Méndez",
+    "license": "MIT"
+  }
